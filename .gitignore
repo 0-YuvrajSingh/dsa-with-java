@@ -36,3 +36,11 @@ Thumbs.db
 # Backup / temp files
 *~
 *.swp
+
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
