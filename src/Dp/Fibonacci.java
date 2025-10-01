@@ -3,6 +3,7 @@ package Dp;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// By Memoization : T.C : O(N) S.C:O(N)+O(N);
 public class Fibonacci {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
