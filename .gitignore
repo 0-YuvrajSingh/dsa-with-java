@@ -1,0 +1,38 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build output directories
+out/
+target/
+build/
+bin/
+
+# Logs
+*.log
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Eclipse files (if someone opens in Eclipse)
+.classpath
+.project
+.settings/
+
+# VS Code settings (sometimes used alongside)
+.vscode/
+
+# Compiled class files
+*.class
+
+# Generated files
+*.jar
+*.war
+*.ear
+
+# Backup / temp files
+*~
+*.swp
