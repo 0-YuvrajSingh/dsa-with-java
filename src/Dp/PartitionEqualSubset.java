@@ -79,7 +79,7 @@ public class PartitionEqualSubset {
         target = target / 2;
         boolean[] prev = new boolean[target + 1];
 
-        prev[0] = true;
+        prev[0] = true; // target is 0 means target already reached so true;
 
         if (nums[0] <= target) {
             prev[nums[0]] = true;
